@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django,MangoDB**
 
-- 💬 Ask me about **PYTHON,MYSQL,POSTGRESQL**
+- 💬 Ask me about **PYTHON,MYSQL,POSTGRESQL,TIDB,SCYLLADB**
 
 - 📫 How to reach me **singhaman9625@gmail.com**
 
